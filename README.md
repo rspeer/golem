@@ -8,6 +8,12 @@ What do you get when you merge together
 
 You get a Dominion bot. 
 
+Some very related code
+----------------------
+Another crucial component for a Dominion bot is a simulator for what actually
+happens when you play cards. I started developing it here, but then moved it
+into a separate project: http://github.com/rspeer/dominiate
+
 The name
 --------
 When you take a robot and make it Dominion-themed, you get a Golem.
